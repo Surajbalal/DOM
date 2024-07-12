@@ -1,0 +1,26 @@
+*{
+    padding: 0%;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box{
+    width: 250px;
+    height: 50px;
+    font-size: 24px;
+    border: 2px solid balck;
+    border-radius: 5px;
+    background-color: red;
+    color: #fff;
+
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
